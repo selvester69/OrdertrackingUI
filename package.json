@@ -7,7 +7,7 @@
     "build": "ng build --base-href \"https://selvester69.github.io/OrdertrackingUI/\"",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng build --base-href \"https://selvester69.github.io/OrdertrackingUI/\" && angular-cli-ghpages --dir=dist/ordertrackingui",
+    "deploy": "ng build --base-href \"https://selvester69.github.io/OrdertrackingUI/\" && angular-cli-ghpages --dir=dist/order-tracking-dashboard",
     "dev": "ng serve"
   },
   "private": true,
