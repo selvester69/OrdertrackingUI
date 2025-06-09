@@ -1,13 +1,13 @@
 {
-  "name": "angular-order-tracking-dashboard",
+  "name": "order-tracking-dashboard",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href \"https://selvester69.github.io/OrdertrackingUI/\"",
+    "build": "ng build --base-href \"https://selvester69.github.io/order-tracking-dashboard/\"",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng build --base-href \"https://selvester69.github.io/OrdertrackingUI/\" && angular-cli-ghpages --dir=dist/order-tracking-dashboard",
+    "deploy": "ng build --base-href \"https://selvester69.github.io/order-tracking-dashboard/\" && angular-cli-ghpages --dir=dist/order-tracking-dashboard",
     "dev": "ng serve"
   },
   "private": true,
